@@ -498,7 +498,8 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #df3740;
+    background-color:#188B39;
+  border-color: #188B39;
 }
 
 @media (max-width: 992px) {
